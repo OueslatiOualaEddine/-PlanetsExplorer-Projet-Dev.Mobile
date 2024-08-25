@@ -1,35 +1,34 @@
-# Explore-Planets-
-Explore solar system with Planets app with beautiful UI &amp; Animation.
+# PlanetsExplorer
 
+##Project overview
 
-## Preview 👇
-![Web 1920 – 1](https://user-images.githubusercontent.com/41040479/226348871-4d1b3a83-897e-4f84-8f9c-0fb4aeb51ed8.png)
+PlanetsExplorer is a project that allows users to explore and learn about different planets in our solar system. The app provides detailed information and images for each planet, making it an engaging and educational tool for astronomy enthusiasts.
 
+## Features
 
-## PACKAGES:
-- Flutter_swiper_plus
+- **Homepage**: Displays an overview of all planets with images and basic information.
+- **Planet Details**: Offers detailed information and images of each planet, including Earth, Mars, Jupiter, Saturn, Mercury, Venus, Neptune, and Uranus.
+- **Interactive**: Explore planets with detailed views and images.
 
+## Usage
 
-## ⚙️ Built with Amazing Tools
-- [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
-- [Android Studio](https://developer.android.com/studio) - Tools for building Awesome apps on every type of Android device.
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
+To explore planets using the app:
+1. **Launch the App**: Open the PlanetsExplorer application.
+2. **Navigate to the Homepage**: View all available planets with basic information.
+3. **Select a Planet**: Click on a planet to view detailed information and images.
+4. **Explore Details**: Use the interactive features to learn more about the selected planet.
 
+## Screenshots
 
-## 🐛 Bugs/Requests
-If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
+### Homepage and Detail Pages
 
+| Homepage | Detail Page Earth | Detail Page Earth Suite |
+|----------|--------------------|-------------------------|
+| ![Homepage Earth](./Screenshots/Homepage Earth.png) | ![Detail Page Earth](./Screenshots/Detailspage Earth.png) | ![Detail Page Earth Suite](./Screenshots/Detailspage Earth Suite.png) |
 
+### Planet Exploration
 
-## 😍	Show Some Support 😍
-
-If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement! ^^
-
-- [Instagram](https://www.instagram.com/_flutter.queen/)
-- [Medium](https://medium.com/@flutterqueen5)
-- [Facebook](https://www.facebook.com/flutter.queen/)
-- [Twitter](https://twitter.com/Queen33322)
-- [DEV](https://dev.to/areedev)
-
-
+| Mercury | Venus | Mars | Jupiter | Saturn | Uranus | Neptune |
+|---------|-------|------|---------|--------|--------|---------|
+| ![Mercury](./Screenshots/Mercury.png) | ![Venus](./Screenshots/Venus.png) | ![Mars](./Screenshots/Mars.png) | ![Jupiter](./Screenshots/Jupiter.png) | ![Saturn](./Screenshots/Saturn.png) | ![Uranus](./Screenshots/Uranus.png) | ![Neptune](./Screenshots/Neptune.png) |
 
