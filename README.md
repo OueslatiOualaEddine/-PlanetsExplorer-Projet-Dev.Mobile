@@ -28,7 +28,10 @@ To explore planets using the app:
 
 ### Planet Exploration
 
-| Mercury | Venus | Mars | Jupiter | Saturn | Uranus | Neptune |
-|---------|-------|------|---------|--------|--------|---------|
-| <img src="./Screenshots/Mercury.png" alt="Mercury" width="250"/>|<img src="./Screenshots/Venus.png" alt="Venus" width="250"/> | <img src="./Screenshots/Mars.png" alt="Mars" width="250"/>| <img src="./Screenshots/Jupiter.png" alt="Jupiter" width="250"/> | <img src="./Screenshots/Saturn.png" alt="Saturn" width="250"/> | <img src="./Screenshots/Uranus.png" alt="Uranus" width="250"/>  | <img src="./Screenshots/Neptune.png" alt="Neptune" width="250"/>  |
+| Mercury | Venus | Mars | Jupiter |
+|---------|-------|------|---------|
+| <img src="./Screenshots/Mercury.png" alt="Mercury" width="250"/>|<img src="./Screenshots/Venus.png" alt="Venus" width="250"/> | <img src="./Screenshots/Mars.png" alt="Mars" width="250"/>| <img src="./Screenshots/Jupiter.png" alt="Jupiter" width="250"/> |
 
+| Saturn | Uranus | Neptune |
+|--------|--------|---------|
+|<img src="./Screenshots/Saturn.png" alt="Saturn" width="250"/> | <img src="./Screenshots/Uranus.png" alt="Uranus" width="250"/>  | <img src="./Screenshots/Neptune.png" alt="Neptune" width="250"/>  |
