@@ -1,6 +1,6 @@
 # PlanetsExplorer
 
-##Project overview
+## Project overview
 
 PlanetsExplorer is a project that allows users to explore and learn about different planets in our solar system. The app provides detailed information and images for each planet, making it an engaging and educational tool for astronomy enthusiasts.
 
