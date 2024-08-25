@@ -24,11 +24,11 @@ To explore planets using the app:
 
 | Homepage | Detail Page Earth | Detail Page Earth Suite |
 |----------|--------------------|-------------------------|
-| ![Homepage Earth](./Screenshots/Homepage Earth.png) | ![Detail Page Earth](./Screenshots/Detailspage Earth.png) | ![Detail Page Earth Suite](./Screenshots/Detailspage Earth Suite.png) |
+|<img src="./Screenshots/Homepage%20Earth.png" alt="Homepage Earth" width="300"/>|<img src="./Screenshots/Detailspage%20Earth.png" alt="Detail Page Earth" width="300"/>|<img src="./Screenshots/Detailspage%20Earth Suite.png" alt="Detail Page Earth Suite" width="300"/> |
 
 ### Planet Exploration
 
 | Mercury | Venus | Mars | Jupiter | Saturn | Uranus | Neptune |
 |---------|-------|------|---------|--------|--------|---------|
-| ![Mercury](./Screenshots/Mercury.png) | ![Venus](./Screenshots/Venus.png) | ![Mars](./Screenshots/Mars.png) | ![Jupiter](./Screenshots/Jupiter.png) | ![Saturn](./Screenshots/Saturn.png) | ![Uranus](./Screenshots/Uranus.png) | ![Neptune](./Screenshots/Neptune.png) |
+| <img src="./Screenshots/Mercury.png" alt="Mercury" width="150"/>|<img src="./Screenshots/Venus.png" alt="Venus" width="150"/> | <img src="./Screenshots/Mars.png" alt="Mars" width="150"/>| !<img src="./Screenshots/Jupiter.png" alt="Jupiter" width="150"/> | <img src="./Screenshots/Saturn.png" alt="Saturn" width="150"/> |<img src="./Screenshots/Uranus.png" alt="Uranus" width="150"/>  | <img src="./Screenshots/Neptune.png" alt="Neptune" width="150"/>  |
 
